@@ -1,0 +1,11 @@
+.positive {
+  color: #bada55;
+}
+
+.negative {
+  color: #c00;
+}
+
+.counter {
+  font-size: 3rem;
+}
