@@ -4,7 +4,17 @@
     {
       "id": 1,
       "title": "Buy Milk",
-      "completed": false
+      "completed": true
+    },
+    {
+      "title": "Learn React",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "This is nice",
+      "completed": false,
+      "id": 4
     }
   ]
 }
